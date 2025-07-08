@@ -58,8 +58,3 @@ Uses a **rule-based model** (simulated AI) to calculate risk scores:
 python cancer_screening.py
 
 
-📅 Next Screening Dates:
-  Breast Cancer:     2026-07-08
-  Cervical Cancer:   2026-07-08
-  Colorectal Cancer: 2026-07-08
-
