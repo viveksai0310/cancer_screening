@@ -58,23 +58,6 @@ Uses a **rule-based model** (simulated AI) to calculate risk scores:
 python cancer_screening.py
 
 
-
-#sample output
-📋 Cancer Screening Risk Calculator
-
-Enter patient name: Alice
-Enter gender (male/female): female
-Enter age: 55
-Family history of cancer? (yes/no): yes
-Smoker? (yes/no): no
-Alcohol use? (yes/no): no
-
-✅ Patient Summary:
-Name: Alice
-Gender: Female
-Age: 55
-Risk Level: High
-
 📅 Next Screening Dates:
   Breast Cancer:     2026-07-08
   Cervical Cancer:   2026-07-08
